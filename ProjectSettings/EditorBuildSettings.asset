@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 9e79758163713614ba1b6337d713f610
+  - enabled: 1
+    path: Assets/Scenes/MoveToGoalAgent.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/AIDrive.unity
+    guid: 01991747573f04bd88c0a6d8341d0934
+  - enabled: 1
+    path: Assets/Scenes/BallBalance.unity
+    guid: 4c7aa9d19a0b043ad9e7f2ed9e2fc729
+  - enabled: 1
+    path: Assets/Scenes/DQNBallBalance.unity
+    guid: 7343c5a3b222c2d4894cc613c7c94ed7
+  - enabled: 1
+    path: Assets/Scenes/GeneticAICamouflage.unity
+    guid: 8593d3612e6bd964da906c312ae987e6
+  - enabled: 1
+    path: Assets/Scenes/GeneticAIMovement.unity
+    guid: af0b5768a5e0f5742bd4c2615221fb95
+  - enabled: 1
+    path: Assets/Scenes/GeneticAIStayOnPlatform.unity
+    guid: 09d013eb1848b244581a16b801e1f1df
+  - enabled: 1
+    path: Assets/Scenes/GeneticMaze.unity
+    guid: 1df2e57a3a45dd545b7c3d591d143356
+  - enabled: 1
+    path: Assets/Scenes/PerceptronDodgeBall.unity
+    guid: fe7bc928637d754469078eed6f45e13a
+  - enabled: 1
+    path: Assets/Scenes/Pong.unity
+    guid: cef758dd161244f18b947b5be4507509
+  m_configObjects: {}
