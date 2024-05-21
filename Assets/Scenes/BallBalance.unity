@@ -1391,7 +1391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9700f3c579442746a3e6bc84570a6d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiltSpeed: 60
+  tiltSpeed: 80
   ball: {fileID: 1510681244}
 --- !u!1 &1510681244
 GameObject:
@@ -1706,9 +1706,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fc2e8e78f4a1e744acb7bb498ab2467, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiltSpeed: 60
+  tiltSpeed: 80
   ball: {fileID: 1510681244}
-  epochs: 500
+  epochs: 300
   loadFromFile: 1
 --- !u!54 &1574819838
 Rigidbody:

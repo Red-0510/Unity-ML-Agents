@@ -26,8 +26,8 @@ public class BallState : MonoBehaviour
         GetComponent<Rigidbody>().angularVelocity = Vector3.zero;
         GetComponent<BallState>().dropped = false;
         int ff;
-        if(Random.Range(0,2)==1)ff=80;
-        else ff=-80;
-        // GetComponent<Rigidbody>().AddForce(0,0,ff);
+        if(Random.Range(0,2)==1)ff=100;
+        else ff=-100;
+        GetComponent<Rigidbody>().AddForce(0,0,ff);
     }
 }

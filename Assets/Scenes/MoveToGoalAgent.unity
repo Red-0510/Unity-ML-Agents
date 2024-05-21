@@ -1541,6 +1541,16 @@ PrefabInstance:
       propertyPath: m_BehaviorType
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1762551975839164157, guid: 8afee89ca268c56438f9743001bebff9,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762551975839164157, guid: 8afee89ca268c56438f9743001bebff9,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3837904219134570105, guid: 8afee89ca268c56438f9743001bebff9,
         type: 3}
       propertyPath: m_Name
